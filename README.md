@@ -1,5 +1,16 @@
 <img width="4100" height="2350" alt="Consto BI-1" src="https://github.com/user-attachments/assets/9c0a5d50-8d0c-4026-81be-ce8f2430cd80" />
 
+# 📑 Table of Contents  
+
+1. [Background Info](#background-info)  
+2. [Prelude Info](#prelude-info)  
+3. [Prerequisite](#prerequisite)  
+4. [Sales vs Quota Analysis](#sales-vs-quota-analysis)  
+5. [Global Sales Analysis](#global-sales-analysis)  
+6. [Extended Analysis with Python](#extended-analysis-with-python)  
+7. [Final Insights and Recommendations](#final-insights-and-recommendations)  
+8. [Ending](#ending)  
+
 # BACKGROUND INFO: 
 
 In the retail industry, sales often fall short or exceed quotas due to shifting consumer demand, competition, and seasonality.
