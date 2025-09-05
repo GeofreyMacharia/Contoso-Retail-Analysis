@@ -7,7 +7,7 @@
 3. [Prerequisite](#prerequisite)  
 4. [Sales vs Quota Analysis](#sales-vs-quota-objective)  
 5. [Global Sales Analysis](#global-sales-analysis)  
-6. [Extended Analysis with Python](#extended-analysis-with-python)  
+6. [Extended Analysis with Python](#extended-analysis-with-python)
 7. [Final Insights and Recommendations](#final-insights-and-recommendations)  
 8. [Ending](#ending)  
 
@@ -50,7 +50,7 @@ A representation of the results can be seen from the following dashboard:
 <img width="4100" height="2350" alt="Consto BI-2" src="https://github.com/user-attachments/assets/bfa8005a-29cc-4987-97c4-d18822e5e0c4" />
 
 
-# GLOBAL SALES ANAYSIS:
+# GLOBAL SALES ANALYSIS:
 The primary objective The primary objective of this section is to analyze sales performance across different regions and countries, 
 with the goal of identifying high-performing markets, product distribution trends, customer base concentration, and regional profitability.
 
@@ -79,7 +79,7 @@ To avoid redundancyi showcased the final insights and recommendations on the fol
 
 <img width="4100" height="2350" alt="Consto BI-4" src="https://github.com/user-attachments/assets/0dcb0cbf-4dfd-4e30-addd-c98956be90ca" />
 
-# EXTENEDED ANALYSIS WITH PYTHON
+# EXTENDED ANALYSIS WITH PYTHON
 
 In addition to SQL-based queries and dashboard visualizations, I developed Python notebooks to conduct a more in-depth analysis of the Contoso Retail dataset. These notebooks allowed for:
 * Advanced computations beyond SQL aggregations, including the introduction of new performance metrics such as Profit and Profit Margin.
