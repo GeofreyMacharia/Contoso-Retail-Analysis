@@ -5,7 +5,7 @@
 1. [Background Info](#background-info)  
 2. [Prelude Info](#prelude-info)  
 3. [Prerequisite](#prerequisite)  
-4. [Sales vs Quota Analysis](#sales-vs-quota-analysis)  
+4. [Sales vs Quota Analysis](#sales-vs-quota-objective)  
 5. [Global Sales Analysis](#global-sales-analysis)  
 6. [Extended Analysis with Python](#extended-analysis-with-python)  
 7. [Final Insights and Recommendations](#final-insights-and-recommendations)  
