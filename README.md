@@ -1,5 +1,5 @@
 <img width="4100" height="2350" alt="Consto BI-1" src="https://github.com/user-attachments/assets/9c0a5d50-8d0c-4026-81be-ce8f2430cd80" />
-#BACKGROUND INFO
+# BACKGROUND INFO
 In the retail industry, sales often fall short or exceed quotas due to shifting consumer demand, competition, and seasonality.
 At the same time, global operations introduce regional differences that affect overall performance.
 Without analyzing both quota attainment and regional sales trends, organizations risk misjudging growth, misallocating resources, and missing key opportunities.
