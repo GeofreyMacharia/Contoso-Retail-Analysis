@@ -1,9 +1,12 @@
 <img width="4100" height="2350" alt="Consto BI-1" src="https://github.com/user-attachments/assets/9c0a5d50-8d0c-4026-81be-ce8f2430cd80" />
-# BACKGROUND INFO
+
+# BACKGROUND INFO: 
+
 In the retail industry, sales often fall short or exceed quotas due to shifting consumer demand, competition, and seasonality.
 At the same time, global operations introduce regional differences that affect overall performance.
 Without analyzing both quota attainment and regional sales trends, organizations risk misjudging growth, misallocating resources, and missing key opportunities.
 # PRELUDE INFO
+
 This project is divided into two parts. The first part focuses on analyzing sales quota against actual sales, while the second part explores sales performance
 across global regions. The separation is necessary due to the different levels of aggregation required for each analysis, which will be explained in detail later.
 # PREREQUISITE:
@@ -15,7 +18,7 @@ The flowchart below provides a simplified overview of the data preparation proce
 
 <img width="2708" height="2747" alt="Contoso Dataset Acquisition Flowchart-1" src="https://github.com/user-attachments/assets/7b3ec35e-ecee-4d29-b9e7-57894c16714e" />
 
-#SALES VS QUOTA OBJECTIVE:  
+# SALES VS QUOTA OBJECTIVE:  
 The primary goal of this section is to analyze sales data and determine whether actual sales achieved or fell short of the quotas established by the organization.
 ## Research Questions – Sales vs Quota:
 
@@ -36,7 +39,7 @@ A representation of the results can be seen from the following dashboard:
 <img width="4100" height="2350" alt="Consto BI-2" src="https://github.com/user-attachments/assets/bfa8005a-29cc-4987-97c4-d18822e5e0c4" />
 
 
-#GLOBAL SALES ANAYSIS:
+# GLOBAL SALES ANAYSIS:
 The primary objective The primary objective of this section is to analyze sales performance across different regions and countries, 
 with the goal of identifying high-performing markets, product distribution trends, customer base concentration, and regional profitability.
 
